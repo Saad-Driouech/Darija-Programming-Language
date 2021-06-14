@@ -1,0 +1,15 @@
+aadad x, y;
+mouhima()
+bda
+6 => x;
+2 => y;
+mahed (x != y):
+ila (x > y):
+x - y => x;
+:
+ilaghalat:
+y - x => y;
+:
+:
+tebaa(x);
+sali
